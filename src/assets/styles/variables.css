@@ -1,0 +1,9 @@
+:root {
+  --btn-color: #ffffff;
+  --btn-bg-color: #18181e;
+  --text-color: #000000;
+  --modal-bg: #ffffff;
+  --modal-wrapper-bg: rgba(255, 255, 255, 0.25);
+  --bg-gradient: linear-gradient(to right, #7f53ac 0, #657ced 100%);
+  --table-border: #000000;
+}
